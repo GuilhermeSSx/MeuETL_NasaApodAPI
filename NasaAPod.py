@@ -2,7 +2,6 @@ import requests
 import csv
 
 # https://api.nasa.gov/
-# https://api.nasa.gov/planetary/apod
 
 NASA_API_KEY = 'oONPThyXOgkfrFhRR9SqGChI0DF2wr7MrSS5Rngp'
 url = 'https://api.nasa.gov/planetary/apod?api_key='
