@@ -4,7 +4,7 @@
 ### links utéis:
 https://api.nasa.gov/
 
-https://api.nasa.gov/planetary/apod
+https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
 
 ### O que esse script consegue fazer
 - Comsumir os dados da API da Nasa
